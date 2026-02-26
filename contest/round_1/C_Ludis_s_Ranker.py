@@ -1,7 +1,7 @@
 def solve():
     n = int(input())
 
-    rates = list(input().split())
+    rates = list(map(int, input().split()))
     student = []
     for index, value in enumerate(rates):
         student.append([value,index])
