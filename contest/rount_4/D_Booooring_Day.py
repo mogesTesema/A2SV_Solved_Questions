@@ -1,34 +1,27 @@
 def solve():
-    n,l,r = map(int,input().split())
-    cards = list(map(int,input().split()))
-    win = 0
-    if n == 0:
-        print(0)
-        return
+        n, l, r = map(int, input().split())
+        cards = list(map(int, input().split()))
+        
+        wins = 0
+        current_sum = 0
+        left = 0
+        
+        for right in range(n):
+            current_sum += cards[right]
+            
+            while current_sum > r and left <= right:
+                current_sum -= cards[left]
+                left += 1
+            
+            if l <= current_sum <= r:
+                wins += 1
+                current_sum = 0
+                left = right + 1
+                
+        print(wins)
 
-    def between(x):
-        return l <= x <= r
-    prev = 0
-    for right in range(len(cards)):
-        if between(cards[right]):
-            win += 1
-            prev = 0
-        elif cards[right] > r:
-            prev = 0
-        elif cards[right] < l:
-            curr = cards[right]+prev
-            if between(curr):
-                win += 1
-                prev = 0
-            elif curr < l:
-                prev = curr
-            elif curr > r:
-                prev = 0
 
-    print(win)
 
 t = int(input())
-
 for _ in range(t):
     solve()
-
