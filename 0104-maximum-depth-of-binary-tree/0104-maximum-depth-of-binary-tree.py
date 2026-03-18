@@ -14,6 +14,7 @@ class Solution:
             if not node:
                 max_depth = max(max_depth,x)
                 return
+                
             travers(node.left,x+1)
             travers(node.right,x+1)
 
