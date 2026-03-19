@@ -7,7 +7,6 @@
 class Solution:
     def sumEvenGrandparent(self, root: Optional[TreeNode]) -> int:
 
-        stack = []
         ans = 0
         def traverse(node):
             nonlocal ans
