@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -55,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -94,4 +97,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
