@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
