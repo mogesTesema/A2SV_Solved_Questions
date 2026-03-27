@@ -84,6 +84,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
