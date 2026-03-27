@@ -17,7 +17,7 @@ class Solution:
             
             # operation 
             for c in range(n):
-                posD = r - c
+                posD =  r - c + (n - 1)
                 negD = r + c
                 
                 if cols[c] or posDiag[posD] or negDiag[negD]: # ignore cell
