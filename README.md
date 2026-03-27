@@ -111,4 +111,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
