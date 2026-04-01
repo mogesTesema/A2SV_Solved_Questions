@@ -6,7 +6,8 @@ class Solution:
                 return 0
             
             curr_sum += node.val
-            
+            if curr_sum > targetSum:
+                return 0
             return (
                 (1 if curr_sum == targetSum else 0)
                 + count_from(node.left, curr_sum)
