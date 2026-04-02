@@ -89,6 +89,7 @@
 | [0051-n-queens](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0401-binary-watch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0401-binary-watch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
+| [0401-binary-watch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0401-binary-watch/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
