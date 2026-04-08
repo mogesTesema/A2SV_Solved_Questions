@@ -37,6 +37,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
@@ -50,6 +51,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
@@ -65,6 +67,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
@@ -73,6 +76,7 @@
 | [0100-same-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -113,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +150,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
