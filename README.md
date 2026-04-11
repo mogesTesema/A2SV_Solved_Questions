@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 ## Recursion
@@ -127,11 +128,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
