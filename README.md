@@ -93,6 +93,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -221,5 +222,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
