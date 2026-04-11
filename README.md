@@ -95,12 +95,14 @@
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
