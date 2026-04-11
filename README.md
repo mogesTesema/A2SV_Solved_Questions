@@ -102,6 +102,7 @@
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -239,6 +240,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Matrix
