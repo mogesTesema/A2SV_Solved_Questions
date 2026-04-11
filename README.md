@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
@@ -94,6 +95,7 @@
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -173,6 +175,7 @@
 | [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -215,4 +218,8 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
