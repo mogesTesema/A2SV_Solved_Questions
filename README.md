@@ -140,6 +140,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@
 | [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
