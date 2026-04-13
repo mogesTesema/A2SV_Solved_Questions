@@ -97,6 +97,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -125,6 +126,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -263,4 +266,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
