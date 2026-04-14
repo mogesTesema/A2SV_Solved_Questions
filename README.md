@@ -18,6 +18,7 @@
 | [0050-powx-n](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
@@ -27,6 +28,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [1472-design-browser-history](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
