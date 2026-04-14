@@ -29,6 +29,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
