@@ -18,8 +18,7 @@ class Solution:
              stack.append([h,poped_index])
             else:
                 stack.append([h,i])
-        print(stack)
-        print(max_area)
+      
         if stack:
             final_h = len(heights)
             for val, index in stack:
