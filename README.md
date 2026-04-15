@@ -114,6 +114,7 @@
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0641-design-circular-deque](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -176,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
