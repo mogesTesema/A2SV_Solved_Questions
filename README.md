@@ -112,6 +112,7 @@
 | [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0330-patching-array](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -182,6 +183,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0330-patching-array](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
