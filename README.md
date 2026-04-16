@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 ## Recursion
@@ -114,6 +115,7 @@
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0641-design-circular-deque](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -178,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -219,6 +222,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
