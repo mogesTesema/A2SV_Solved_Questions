@@ -118,6 +118,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1029-two-city-scheduling](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1472-design-browser-history](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
@@ -178,6 +179,7 @@
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [1029-two-city-scheduling](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
+| [1029-two-city-scheduling](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
