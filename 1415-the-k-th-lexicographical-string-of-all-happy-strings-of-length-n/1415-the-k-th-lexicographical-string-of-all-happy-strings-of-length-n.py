@@ -3,7 +3,7 @@ class Solution:
         
         unique = []
         letter = ["a","b","c"]
-        def backtrack(start ,path):
+        def backtrack(path):
 
             if len(path) == n:
                 unique.append(path[:])
@@ -15,11 +15,11 @@ class Solution:
                     continue
                 
                 path.append(letter[i])
-                backtrack(i+1,path)
+                backtrack(path)
                 path.pop()
 
 
-        backtrack(0,[])    
+        backtrack([])    
         print(unique)
 
         if k > len(unique):
