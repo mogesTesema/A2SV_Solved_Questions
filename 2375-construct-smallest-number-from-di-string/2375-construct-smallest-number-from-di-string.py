@@ -18,9 +18,9 @@ class Solution:
                 i = len(path)
 
                 if i > 0:
-                    if pattern[i - 1] == 'I' and path[-1] >= num:
+                    if pattern[i - 1] == 'I' and path[-1] > num:
                         continue
-                    if pattern[i - 1] == 'D' and path[-1] <= num:
+                    if pattern[i - 1] == 'D' and path[-1] < num:
                         continue
 
                 path.append(num)
