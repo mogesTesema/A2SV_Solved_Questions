@@ -1,12 +1,19 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         
-        unique = []
+    
         letter = ["a","b","c"]
+        counter = 0
+        a = ""
         def backtrack(path):
 
             if len(path) == n:
-                unique.append(path[:])
+                nonlocal counter
+                counter += 1
+                if counter == k:
+                    nonlocal a
+                    for c in path:
+                        a += c
                 return
 
             for i in range(0,3):
@@ -20,12 +27,7 @@ class Solution:
 
 
         backtrack([])    
-        print(unique)
+       
 
-        if k > len(unique):
-            return ""
-
-        ans = ""
-        for c in unique[k-1]:
-            ans += c
-        return ans
+        return a if a else ""
+       
