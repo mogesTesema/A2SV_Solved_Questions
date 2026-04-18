@@ -1,35 +1,30 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         
-    
-        letter = ["a","b","c"]
-        counter = 0
-        a = ""
-        def backtrack(path):
+        letters = ["a", "b", "c"]
+        path = []
 
+        def backtrack(k):
             if len(path) == n:
-                nonlocal counter
-                counter += 1
-                if counter == k:
-                    nonlocal a
-                    for c in path:
-                        a += c
-                    return True
-                return False
+                return "".join(path)
 
-            for i in range(0,3):
-
-                if path and letter[i] == path[-1]:
+            for ch in letters:
+                if path and ch == path[-1]:
                     continue
-                
-                path.append(letter[i])
-                if backtrack(path):
-                    return True
-                path.pop()
 
-            return False
-        backtrack([])    
-       
+                remaining = n - len(path) - 1
+                count = 2 ** remaining   # size of this subtree
 
-        return a if a else ""
-       
+                if k > count:
+                    k -= count   # skip this whole branch
+                else:
+                    path.append(ch)
+                    return backtrack(k)
+
+            return ""
+
+        total = 3 * (2 ** (n - 1))
+        if k > total:
+            return ""
+
+        return backtrack(k)
