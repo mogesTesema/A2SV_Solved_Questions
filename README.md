@@ -170,6 +170,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
