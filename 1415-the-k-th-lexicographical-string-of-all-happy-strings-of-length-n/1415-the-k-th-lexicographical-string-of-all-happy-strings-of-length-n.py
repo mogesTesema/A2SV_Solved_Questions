@@ -14,7 +14,8 @@ class Solution:
                     nonlocal a
                     for c in path:
                         a += c
-                return
+                    return True
+                return False
 
             for i in range(0,3):
 
@@ -22,10 +23,11 @@ class Solution:
                     continue
                 
                 path.append(letter[i])
-                backtrack(path)
+                if backtrack(path):
+                    return True
                 path.pop()
 
-
+            return False
         backtrack([])    
        
 
