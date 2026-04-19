@@ -108,6 +108,7 @@
 | [0090-subsets-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -168,6 +170,7 @@
 | [0077-combinations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -231,6 +234,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0146-lru-cache](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -268,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -341,4 +346,12 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
