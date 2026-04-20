@@ -128,6 +128,7 @@
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0641-design-circular-deque](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0645-set-mismatch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
@@ -217,6 +218,7 @@
 | [0229-majority-element-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0274-h-index/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0645-set-mismatch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
 | [1029-two-city-scheduling](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -240,6 +242,7 @@
 | [0090-subsets-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0401-binary-watch/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0645-set-mismatch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -252,6 +255,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0645-set-mismatch](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0791-custom-sort-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0791-custom-sort-string/) | Medium |
