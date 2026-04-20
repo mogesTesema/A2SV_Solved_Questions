@@ -3,8 +3,7 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        # nums = list(range(1,n+1))
-        # print(nums)
+        
         left = 1
         right = n
         bad = None
@@ -12,7 +11,7 @@ class Solution:
             mid = left + (right-left)//2
 
             if isBadVersion(mid):
-                #do something
+               
                 bad = mid
                 right = mid-1
             else:
