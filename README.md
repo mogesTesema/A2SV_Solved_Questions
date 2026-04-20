@@ -193,6 +193,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -364,4 +365,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
