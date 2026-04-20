@@ -106,6 +106,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
@@ -193,6 +194,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
