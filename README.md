@@ -35,6 +35,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -54,6 +55,7 @@
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -88,6 +90,7 @@
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -124,6 +127,7 @@
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0641-design-circular-deque](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -219,6 +223,7 @@
 | [0053-maximum-subarray](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +354,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
