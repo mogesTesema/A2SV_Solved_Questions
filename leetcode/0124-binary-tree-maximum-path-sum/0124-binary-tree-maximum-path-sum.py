@@ -24,7 +24,7 @@ class Solution:
             
 
             return max(left_val,right_val) + val
-        a = traverse(root)
-        return max(ans,a)
+        traverse(root)
+        return ans
 
         
