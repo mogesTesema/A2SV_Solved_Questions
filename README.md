@@ -71,6 +71,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -104,6 +105,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -128,6 +130,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0330-patching-array](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -343,6 +346,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
