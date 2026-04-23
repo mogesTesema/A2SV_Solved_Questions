@@ -16,7 +16,9 @@ class Solution:
             for nbr in graph_list[node]:
                 if nbr not in visited:
 
-                    if explore(nbr):
+                    found = explore(nbr)
+
+                    if found:
                         return True
             return False
         return explore(source)
