@@ -26,8 +26,8 @@ class Solution:
 
         def dfs(row,col):
 
-            # if (row,col) in visited:
-            #     return False
+            if (row,col) in self.visited:
+                return True
 
             self.visited.add((row,col))
 
