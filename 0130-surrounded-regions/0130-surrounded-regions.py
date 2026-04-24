@@ -14,6 +14,7 @@ class Solution:
         self.directions = [(1,0),(-1,0),(0,1),(0,-1)]
         self.marked = set()
         self.visited = set()
+        self.unsurrounded = set()
 
         def inbound(row,col):
             return 0 <= row < rows and 0 <= col < cols
@@ -25,7 +26,8 @@ class Solution:
             
 
         def dfs(row,col):
-
+            if (row,col) in self.unsurrounded:
+                return False
             if (row,col) in self.visited:
                 return True
 
@@ -55,5 +57,8 @@ class Solution:
 
                     if is_surrounded:
                         mark_x()
+                    else:
+                        self.unsurrounded.update(self.visited)
                     self.visited.clear()
+
 
