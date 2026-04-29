@@ -71,6 +71,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
@@ -108,6 +109,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
@@ -405,6 +407,11 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/mogesTesema/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
