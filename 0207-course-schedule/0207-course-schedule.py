@@ -6,15 +6,15 @@ class Solution:
         for first, second in prerequisites:
             graph[second].append(first)
 
-        visiting = set()   # current path
-        visited = set()    # already safe
+        visiting = set()   
+        visited = set()    
 
         def traverse(node):
             if node in visiting:
-                return False   # cycle
-            
+                return False   
+
             if node in visited:
-                return True    # already checked
+                return True    
             
             visiting.add(node)
 
